@@ -14,11 +14,11 @@
 - [ ] Install the Flex Plugin Builder: The Flex Plugin Builder is a command-line tool that helps you build and package Flex plugins. You can install it by running the following command in your terminal: `npm install -g @twilio/flex-plugin-builder`
 
 1. Create new Flex project or clone existing by using the following commands:
-*New*
+
 ```shell
-twilio flex:init //
-```
-*Existing*
-```shell
+/New
+twilio flex:init
+
+/Existing
 twilio flex:clone <project-name>
 ```
